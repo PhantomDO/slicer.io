@@ -2,7 +2,7 @@
 
 ![image](Screen/Slice_v1.gif)
 
-Gameplay
+## Gameplay
 
 - __On tranche des objets qui nous fonce dessus__
   - Indacateur de direction pour ceux arrivant dans l'angle mort du joueur,
