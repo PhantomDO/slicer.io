@@ -1,6 +1,7 @@
 # slicer.io
 
 ![image](Screen/game_tiny.gif)
+[Vidéo de test](https://photos.app.goo.gl/ZFVnm47od2b2C4Zn8)
 
 ## Gameplay
 
