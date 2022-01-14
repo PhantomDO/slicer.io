@@ -1,6 +1,6 @@
 # slicer.io
 
-![image](Screen/game.gif)
+![image](Screen/game_tiny.gif)
 
 ## Gameplay
 
